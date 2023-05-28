@@ -22,7 +22,7 @@ Proposed Methodology:
 
 The proposed melanoma classification method extracts more relevant features from the skin lesion region using pre-train CNN models. Further, a set of a classifier is used to carry out the classification. The detailed pipeline of the proposed method is illustrated in Figure. The method consists of three primary stages, namely, 1) Preprocessing, 2) feature extraction, and 3) classification.
 
-![](proposed_method.png)
+![](proposed_model.png)
 
 Boundary localization:
 
